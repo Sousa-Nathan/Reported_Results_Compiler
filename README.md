@@ -1,4 +1,4 @@
-# AJ_is_Mean
+# Reported_Results_Compiler
 
 Compiles all the tabs within the Reported Results workbook into one workbook for greater ease in data filtering.
 
